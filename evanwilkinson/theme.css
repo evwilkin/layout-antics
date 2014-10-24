@@ -1,0 +1,35 @@
+#line {
+  color: white;
+}
+
+h1 {
+  color: #5CB8E6;
+  margin-bottom: 7%;
+  max-width: 100%;
+  font-size: 7em;
+  display: inline-block;
+}
+
+li {
+  color: gray;
+  text-decoration: none;
+  font-size: 2em;
+}
+
+a {
+  color: gray;
+  text-decoration: none;
+}
+
+img {
+  border: white solid 8px;
+}
+
+.slider {
+  float: left;
+  font-size: 2em;
+}
+
+.navbar {
+  color: white;
+}
